@@ -9,4 +9,8 @@ xsltproc sort-p2f.xslt $1 > /tmp/bla.xml
 cp /tmp/bla.xml $1
 rm /tmp/bla.xml
 
-sed -i -e "s/\"/'/g" $1
+if [[ "$(uname)" == "Darwin" ]]; then
+    sed -i '' "s/\"/'/g" $1
+else
+    sed -i "s/\"/'/g" $1
+fi

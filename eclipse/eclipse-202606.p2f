@@ -7,55 +7,43 @@
       </repositories>
     </iu>
     <iu id='org.eclipse.jst.enterprise_ui.feature.feature.group' name='Eclipse Java EE Developer Tools' version='3.42.0.v202604080341'>
-      <repositories size='2'>
+      <repositories size='1'>
         <repository location='https://download.eclipse.org/releases/2026-06'/>
-        <repository location='https://download.eclipse.org/releases/latest'/>
       </repositories>
     </iu>
     <iu id='org.eclipse.jst.server_ui.feature.feature.group' name='JST Server UI' version='3.4.500.v202401292331'>
-      <repositories size='4'>
+      <repositories size='1'>
         <repository location='https://download.eclipse.org/releases/2026-06'/>
-        <repository location='https://download.eclipse.org/releases/2024-12'/>
-        <repository location='https://download.eclipse.org/releases/latest'/>
-        <repository location='https://download.eclipse.org/releases/2025-06'/>
       </repositories>
     </iu>
     <iu id='org.eclipse.m2e.wtp.feature.feature.group' name='m2e-wtp - Maven Integration for WTP' version='1.6.1.20231024-1618'>
-      <repositories size='4'>
+      <repositories size='1'>
         <repository location='https://download.eclipse.org/releases/2026-06'/>
-        <repository location='https://download.eclipse.org/releases/2024-12'/>
-        <repository location='https://download.eclipse.org/releases/latest'/>
-        <repository location='https://download.eclipse.org/releases/2025-06'/>
       </repositories>
     </iu>
     <iu id='org.eclipse.wildwebdeveloper.feature.feature.group' name='Wild Web Developer HTML, CSS, JSON, Yaml, JavaScript, TypeScript, Node tools' version='1.4.0.202511281851'>
-      <repositories size='2'>
+      <repositories size='1'>
         <repository location='https://download.eclipse.org/releases/2026-06'/>
-        <repository location='https://download.eclipse.org/releases/latest'/>
       </repositories>
     </iu>
     <iu id='org.eclipse.wst.server_adapters.feature.feature.group' name='WST Server Adapters' version='3.39.0.v202508222246'>
-      <repositories size='2'>
+      <repositories size='1'>
         <repository location='https://download.eclipse.org/releases/2026-06'/>
-        <repository location='https://download.eclipse.org/releases/latest'/>
       </repositories>
     </iu>
     <iu id='org.eclipse.wst.web_js_support.feature.feature.group' name='Eclipse Web Developer Tools - JavaScript Support' version='3.36.0.v202508301759'>
-      <repositories size='2'>
+      <repositories size='1'>
         <repository location='https://download.eclipse.org/releases/2026-06'/>
-        <repository location='https://download.eclipse.org/releases/latest'/>
       </repositories>
     </iu>
     <iu id='org.eclipse.wst.web_ui.feature.feature.group' name='Eclipse Web Developer Tools' version='3.42.0.v202604080342'>
-      <repositories size='2'>
+      <repositories size='1'>
         <repository location='https://download.eclipse.org/releases/2026-06'/>
-        <repository location='https://download.eclipse.org/releases/latest'/>
       </repositories>
     </iu>
     <iu id='org.eclipse.wst.xml_ui.feature.feature.group' name='Eclipse XML Editors and Tools' version='3.42.0.v202604080342'>
-      <repositories size='2'>
+      <repositories size='1'>
         <repository location='https://download.eclipse.org/releases/2026-06'/>
-        <repository location='https://download.eclipse.org/releases/latest'/>
       </repositories>
     </iu>
     <iu id='org.jboss.ide.eclipse.as.feature.feature.group' name='JBoss AS, WildFly &amp; EAP Server Tools' version='3.10.3.v20230714-1629'>
